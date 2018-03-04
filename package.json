@@ -1,0 +1,19 @@
+{
+  "name": "gulp-prettier-eslint",
+  "description": "Gulp wrapper for prettier-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperhesthaven/gulp-prettier-eslint.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "prettier-eslint": "^8.8.1",
+    "through2": "^2.0.3",
+    "vinyl-sourcemaps-apply": "^0.2.1"
+  }
+}
